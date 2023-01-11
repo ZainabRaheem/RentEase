@@ -1,0 +1,17 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/OverpassRomanMedium.ttf"); font-family : "Overpass"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/LatoRegular.ttf"); font-family : "Lato"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/OverpassRomanRegular.ttf"); font-family : "Overpass"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OverpassRomanExtraBold.ttf"); font-family : "Overpass"; font-weight : 800;  }
+ @font-face { font-style : bold; src: url("assets/fonts/LatoLight.ttf"); font-family : "Lato"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OverpassRomanBold.ttf"); font-family : "Overpass"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OverpassRomanSemiBold.ttf"); font-family : "Overpass"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OverpassRomanLight.ttf"); font-family : "Overpass"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OpenSansSemiBold.ttf"); font-family : "Open Sans"; font-weight : 600;  }
+ @font-face { font-style : normal; src: url("assets/fonts/OpenSansRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/LatoBold.ttf"); font-family : "Lato"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/OverpassRomanExtraLight.ttf"); font-family : "Overpass"; font-weight : 200;  }
+ @font-face { font-style : italic; src: url("assets/fonts/OverpassItalicBlack.ttf"); font-family : "Overpass"; font-weight : 900;  }
+ @font-face { font-style : bold; src: url("assets/fonts/ManropeMedium.ttf"); font-family : "Manrope"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/LatoBlack.ttf"); font-family : "Lato"; font-weight : 900;  }
